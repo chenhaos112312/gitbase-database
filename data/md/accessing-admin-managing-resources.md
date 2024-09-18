@@ -1,10 +1,10 @@
 ---
-title: Accessing the Admin
+title: Accessing the Admin Panel and Managing Resources in GitBase
 description: How to access the admin panel and manage your resource list in GitBase
 date: '2024-08-11T13:14:40.737Z'
-lastModified: '2024-09-18T12:42:17.978Z'
+lastModified: '2024-09-18T12:43:39.463Z'
 ---
-# Accessing the Admin Panel and Managing Resources in GitBase
+# Accessing the Admin
 
 GitBase provides a user-friendly admin interface for managing your website's resources. This guide will walk you through the process of accessing the admin panel and managing your resources effectively.
 
