@@ -2,8 +2,9 @@
 title: Configuring Environment Variables for GitBase
 description: How to configure GitBase environment variables
 date: '2024-08-11T13:08:05.474Z'
+lastModified: '2024-09-18T12:35:23.711Z'
 ---
-# Configuring Environment Variables for GitBase
+# Configuring Environment Variables for GitBase2
 
 GitBase relies on several crucial environment variables for secure GitHub integration, authentication, and admin access; this guide explains each variable's purpose and provides step-by-step instructions for proper configuration.
 
